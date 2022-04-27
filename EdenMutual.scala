@@ -6,7 +6,7 @@ object EdenMutual{
         var driver = "com.mysql.jdbc.Driver"
         var url = "jdbc:mysql://localhost:3306/project0"
         var username = "root"
-        val password = "000B@nk@i000"
+        val password = "############"
 
         var connection:Connection = null
 
